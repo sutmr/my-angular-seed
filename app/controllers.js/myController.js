@@ -1,0 +1,3 @@
+myApp.controller('MyCtrl',function ($scope) {
+  // todo ......
+});
